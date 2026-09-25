@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/u/291857586?s=400&v=4" style="width: 10%; height: auto;">
+<img src="https://avatars.githubusercontent.com/u/291857586?v=4" style="width: 10%; height: auto;">
 
 Hi, I'm Elizer Paredes. Check out my repos!
 
